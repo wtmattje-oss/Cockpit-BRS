@@ -74,7 +74,7 @@ def tela_login():
                     st.session_state["auth_user_v59"] = ""
                     st.error("Usuário ou senha inválidos.")
 
-        st.caption("Em publicação, use Streamlit secrets. O CSV local fica como fallback para desenvolvimento.")
+        st.caption("Em caso de problemas, contate o administrador da aplicação.")
 
 def exigir_login():
     auth_ok = bool(st.session_state.get("auth_ok_v59", False))
