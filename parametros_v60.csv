@@ -1,0 +1,7 @@
+setor,turno,inicio_turno,fim_turno,intervalo_min,funcionarios_planejados,produtividade_pedidos_hora,produtividade_linhas_hora,participacao_turno_pedidos,participacao_turno_linhas,backlog_local_pedidos,backlog_local_linhas
+Geração de Cargas,1º Turno,20:00,05:00,72,8,10,130,0.7,0.7,0,0
+Geração de Cargas,2º Turno,22:00,07:00,72,5,10,130,0.3,0.3,0,0
+Fracionado,1º Turno,07:00,17:00,72,13,10,80,0.7,0.7,0,0
+Fracionado,2º Turno,20:00,05:00,72,4,10,80,0.3,0.3,0,0
+Consolidação,1º Turno,07:00,17:00,72,24,5,40,0.8,0.8,0,0
+Consolidação,2º Turno,17:00,02:00,72,5,5,40,0.2,0.2,0,0
